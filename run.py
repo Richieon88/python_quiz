@@ -13,20 +13,20 @@ if answer == "paris":
 else:
     print("Incorrect!") 
     
-answer = input("Whats the capital of France? ")
-if answer == "paris":
+answer = input("Whats the capital of Spain? ")
+if answer == "madrid":
     print("Correct!")
 else:
     print("Incorrect!")
 
-answer = input("Whats the capital of France? ")
-if answer == "paris":
+answer = input("Whats the capital of England? ")
+if answer == "london":
     print("Correct!")
 else:
     print("Incorrect!")
 
-answer = input("Whats the capital of France? ")
-if answer == "paris":
+answer = input("Whats the capital of Germay? ")
+if answer == "berlin":
     print("Correct!")
 else:
     print("Incorrect!")               
